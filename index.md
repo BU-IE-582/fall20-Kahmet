@@ -1,6 +1,6 @@
 ## Homework 0
 
-[Homework 0 - R Markdown File](Hw-0/markdown.rmd)
+[Homework 0 - R Markdown File](Hw-0/markdown.Rmd)
 
 [Homework 0 HTML File](Hw-0/markdown.html)
 
