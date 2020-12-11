@@ -13,6 +13,6 @@
 
 ## Homework 2
 
-[Homework 2 - R file](Hw-2/hw2.R)
+[Homework 2 - R file](Hw2/Hw2.R)
 
-[Homework 2 - HTML file](Hw-2/Hw-2-IE-582.html)
+[Homework 2 - HTML file](Hw2/Hw2.html)
