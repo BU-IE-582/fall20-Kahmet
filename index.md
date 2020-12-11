@@ -10,3 +10,9 @@
 [Homework 1 - R file](Hw-1/hw1.R)
 
 [Homework 1 - HTML file](Hw-1/Hw-1-IE-582.html)
+
+## Homework 2
+
+[Homework 2 - R file](Hw-2/hw2.R)
+
+[Homework 2 - HTML file](Hw-2/Hw-2-IE-582.html)
