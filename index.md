@@ -22,3 +22,9 @@
 [Homework 3 - R file](Hw3/Hw3.R)
 
 [Homework 3 - HTML file](Hw3/Hw3.html)
+
+## Homework 4
+
+[Homework 4 - R file](Hw4/Hw4.R)
+
+[Homework 4 - HTML file](Hw4/Hw4.html)
