@@ -31,8 +31,6 @@
 
 ## Project
 
-[Description - pdf file](Description/Description.pdf)
-
 [Project - pdf file](Project/Project.pdf)
 
 [Project - R file](Project/Project.R)
